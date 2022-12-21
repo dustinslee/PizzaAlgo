@@ -1,2 +1,9 @@
 1. Decide which business to order from
-2. Decide which type of pizza to order
+2. Determine method of ordering (app vs website vs phone call)
+3. Decide which type of pizza to order
+4. Place order
+5. Pay for order
+6. Receive order
+7. Check order for accuracy
+8. If not order is incorrect call store 
+   Else enjoy =)
